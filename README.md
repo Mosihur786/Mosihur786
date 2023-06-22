@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mosihur786
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning programming using python language..
+- 🌱 I’m currently learning programming using java language..
 - 💞️ I’m looking to collaborate on  ...
 - 📫 How to reach me <..My email (nadimahmad2792@gmail.com)..>...
 - 
