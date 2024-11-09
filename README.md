@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Mosihur786
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning programming using java language..
-- 💞️ I’m looking to collaborate on  ...
+- 👋 Hi, My name is Mosihur Rahman who is currently in TechM.
+- 👀 I’m interested to learning and solving coding problems....
 - 📫 How to reach me <..My email (nadimahmad2792@gmail.com)..>...
 - 
 
